@@ -4,13 +4,25 @@
   
   
   <entry>
-    <title>测试文章</title>
+    <title>test blog</title>
     <link href="/2023/04/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2023/04/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>This is a test blog.</p>]]></content>
     
     
+    <categories>
+      
+      <category>life</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>origin</tag>
+      
+    </tags>
     
   </entry>
   
