@@ -1,6 +1,2 @@
 # KingT-rexKing.github.io
- 
-　
-
-
 
